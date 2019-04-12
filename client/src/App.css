@@ -1,0 +1,7 @@
+.custom-file-input ~ .custom-file-label::after {
+  content: "Otwórz";
+}
+
+body {
+  background-color: #e9ecef;
+}
